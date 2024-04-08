@@ -1,5 +1,3 @@
-I forgot to take a picture of 2 of the capacitors for the audio fix. I'll snap them soon.
-
 SD-Snatcher has a fantastic site for MSX info, tools, and fixes. These audio fixes are taken from their site, I'm just following along and posting my own pictures. Please check out their site here: https://frs.badcoffee.info/hardware/MSXfixes.html
 
 This is basically 2 modifications. 1 - we're putting the audio circuit back into spec, and 2 - we're lowing the noise on the audio output.
