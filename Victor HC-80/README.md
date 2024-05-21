@@ -1,6 +1,7 @@
 The Victor HC-80 is an MSX2 variant with a few interesting features. 
 
 It has 3 video outputs: RF, composite from the 5 pin DIN labeled Monitor, and RGB via a JP21 connector.
+
 THE JP21 CONNECTOR IS NOT THE SAME PINOUT AS SCART!
 
 The firmware includes a cool synth program Tiny Synth. It also includes a graph program, yay... 
