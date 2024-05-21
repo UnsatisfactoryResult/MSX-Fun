@@ -8,4 +8,4 @@ The firmware includes a cool synth program Tiny Synth. It also includes a graph 
 
 There's a reset button on the back that comes in handy. 
 
-Unfortunately it also has a problematic design detail. It uses split RAM. The 32KB lives in slot 0-0, whiles the lower 32KB is in slot 0-2. Be aware that some software or products may not work properly or at all. 
+Unfortunately it also has a problematic design detail. It uses split RAM. The upper 32KB lives in slot 0-0, whiles the lower 32KB is in slot 0-2. Be aware that some software or products may not work properly or at all. 
